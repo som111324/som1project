@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/som1project/static/css/main.b08d6fd3.css",
+    "main.js": "/som1project/static/js/main.11d994b4.js",
+    "index.html": "/som1project/index.html",
+    "main.b08d6fd3.css.map": "/som1project/static/css/main.b08d6fd3.css.map",
+    "main.11d994b4.js.map": "/som1project/static/js/main.11d994b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b08d6fd3.css",
+    "static/js/main.11d994b4.js"
+  ]
+}
